@@ -1,3 +1,9 @@
 eclipse.preferences.version=1
 encoding//src/com/yuli/mhealth/tool/Constant.java=GBK
-encoding//src/com/yuli/mhealth/tool/HttpUploadUtil.java=GBK
+encoding//src/com/yuli/mhealth/tool/HttpUploadUtil.java=GB2312
+encoding//src/com/yuli/mhealth/tool/MyConverter.java=GBK
+encoding//src/com/yuli/mhealth/xiaotool/RoutePlan.java=GBK
+encoding//src/com/yuli/mhealth/xiaotool/ToolsActivity.java=UTF-8
+encoding//src/com/yuli/mhealth/xiaotool/dial.java=GBK
+encoding//src/com/yuli/mhealth/xiaotool/searchHospital.java=GBK
+encoding//src/com/yuli/mhealth/xiaotool/searchPharmacy.java=GBK
