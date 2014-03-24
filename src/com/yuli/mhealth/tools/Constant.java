@@ -1,4 +1,4 @@
-package com.yuli.mhealth.tool;
+package com.yuli.mhealth.tools;
 
 public class Constant 
 {

@@ -11,8 +11,8 @@ import org.json.JSONObject;
 import com.yuli.mhealth.R;
 import com.yuli.mhealth.R.id;
 import com.yuli.mhealth.R.layout;
-import com.yuli.mhealth.tool.Constant;
-import com.yuli.mhealth.tool.HttpUploadUtil;
+import com.yuli.mhealth.tools.Constant;
+import com.yuli.mhealth.tools.HttpUploadUtil;
 
 import android.app.Activity;
 import android.content.Intent;
