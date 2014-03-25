@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">掌上医生</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newstitle">医疗咨询</string>
+    <string name="yaoming_baidianfeng">白癜风是一种获得性、局限性或泛发型皮肤色素脱失症。以局部或泛发型色素脱失形成白斑为特征。印度发病率高，男女发病无显著差别。</string>
+    <string name="yaoming_baineizhang">白内障是指晶状体由于某些原因发生混浊，影响光线进入眼内到达视网膜，使人看不清东西。是常见的致盲性眼病。</string>
+    <string name="yaoming_bigugezhe">鼻骨骨折可单独发生，也可和其他颌骨骨折同时发生。骨折类型与暴力的方向和大小有关。</string>
+    <string name="b_baidianfeng_z">性别无明显差异，各年龄组均可发病，但以青少年好发。皮损为色素脱失斑，常为乳白色，也可为浅粉色，表面光滑无皮疹。白斑境界清楚，边缘色素较正常皮肤增加，白斑内毛发正常或变白。病变好发于受阳光照射及磨擦损伤部位，病损多对称分布。</string>
+    <string name="b_baidianfeng_j">诊断：本病根据白色斑块症状易于诊断。</string>
+    <string name="b_baidianfeng_zl">1.药物治疗（1）补骨脂素及其衍生物 如甲氧沙林口服后照射紫外线。（2）大剂量维生素 如维生素B族、维生素C、维生素P长期服用。（3）有用含铜的药物等治疗 如0.5%硫酸铜溶液口服。2.手术治疗 皮损稳定无进展的患者可行自体表皮移植手术。</string>
+    <string name="b_baidianfeng_yf">1.减少污染食品的摄入，纠正偏食，制定科学的膳食食谱。2.减少有害气体的吸入，晨练或运动时选择空气清新的场所。3.注意劳动防护。4.注意房屋装修造成的污染。5.保持愉快的心情。</string>
+
+</resources>

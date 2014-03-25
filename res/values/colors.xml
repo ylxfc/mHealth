@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item type="color" name="white">#ffffffff</item>
+    <item type="color" name="category_title_normal_background">#FFADB2AD</item>
+    
+    <color name="base_bg">#A0CCFF99</color>
+    <color name="info_panel_bg">#ffeeeeee</color>
+    
+    <!-- traffic -->
+    <color name="traffic_bg">#A0CCFF99</color>
+    <color name="traffic_txt">#000000</color>
+    <color name="traffic_data">#ff666666</color>
+    <color name="traffic_button1">#A099CC33</color>
+    <color name="traffic_button2">#A0CCFF99</color>
+	<color name="traffic_chat_title_name">#000000</color>
+</resources>

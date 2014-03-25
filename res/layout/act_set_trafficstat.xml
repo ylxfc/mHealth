@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout 
+		android:orientation="vertical" 
+        android:background="@null" 
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android">
+  	<FrameLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:paddingLeft="10dip"
+	        android:paddingRight="10dip" >
+	        
+      
+	    <TextView 
+		    android:id="@+id/titleBar"
+		    android:textSize="18.0sp" 
+		    android:textColor="#ffffff" 
+		    android:gravity="center" 
+		    android:layout_width="fill_parent" 
+		    android:layout_height="44.0dip" 
+		    android:text="显示病名" />
+    </FrameLayout>
+
+    <ScrollView 
+	    android:scrollbarThumbVertical="@drawable/scrollbar_handle_vertical" 
+	    android:background="#FFFFFF" 
+	    android:layout_width="fill_parent" 
+	    android:layout_height="0.0px" 
+	    android:layout_weight="1.0">
+    
+        <LinearLayout 
+	        android:orientation="vertical" 
+	        android:layout_width="fill_parent" 
+	        android:layout_height="fill_parent"
+	        android:background="@color/traffic_bg"  >
+
+            <TextView 
+	            android:textColor="@color/traffic_txt" 
+	            android:layout_width="wrap_content" 
+	            android:layout_height="wrap_content" 
+	            android:layout_marginLeft="14.0dip" 
+	            android:layout_marginTop="7.0dip" 
+	            android:layout_marginBottom="7.0dip" 
+	            android:text="症状"
+	            android:textSize="16.0sp" />
+
+            <include
+                android:id="@+id/trafic_today_tbl"
+                layout="@layout/table_textview1" />
+            
+           <TextView 
+	           android:textColor="@color/traffic_txt" 
+	           android:layout_width="wrap_content" 
+	           android:layout_height="wrap_content" 
+	           android:layout_marginLeft="14.0dip" 
+	           android:layout_marginTop="7.0dip" 
+	           android:layout_marginBottom="7.0dip" 
+	           android:text="检查" 
+	           android:textSize="16.0sp"/>
+			<include 
+				android:id="@+id/trafic_month_tbl" 
+				layout="@layout/table_textview2" />
+			
+			<TextView 
+	           android:textColor="@color/traffic_txt" 
+	           android:layout_width="wrap_content" 
+	           android:layout_height="wrap_content" 
+	           android:layout_marginLeft="14.0dip" 
+	           android:layout_marginTop="7.0dip" 
+	           android:layout_marginBottom="7.0dip" 
+	           android:text="治疗" 
+	           android:textSize="16.0sp"/>
+			<include 
+				android:id="@+id/trafic_month_tbl" 
+				layout="@layout/table_textview3" />
+			
+			<TextView 
+	           android:textColor="@color/traffic_txt" 
+	           android:layout_width="wrap_content" 
+	           android:layout_height="wrap_content" 
+	           android:layout_marginLeft="14.0dip" 
+	           android:layout_marginTop="7.0dip" 
+	           android:layout_marginBottom="7.0dip" 
+	           android:text="预防和预后" 
+	           android:textSize="16.0sp"/>
+			<include 
+				android:id="@+id/trafic_month_tbl" 
+				layout="@layout/table_textview4" />
+            
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
