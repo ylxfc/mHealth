@@ -4,6 +4,7 @@
     <item type="color" name="category_title_normal_background">#FFADB2AD</item>
     
     <color name="base_bg">#A0CCFF99</color>
+<<<<<<< HEAD
     <color name="info_panel_bg">#ffeeeeee</color>
     
     <!-- traffic -->
@@ -13,4 +14,6 @@
     <color name="traffic_button1">#A099CC33</color>
     <color name="traffic_button2">#A0CCFF99</color>
 	<color name="traffic_chat_title_name">#000000</color>
+=======
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 </resources>

@@ -3,6 +3,7 @@
  */
 package com.yuli.mhealth.zicha;
 
+<<<<<<< HEAD
 import com.yuli.mhealth.R;
 
 import android.app.Activity;
@@ -12,6 +13,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.TextView;
+=======
+import android.app.Activity;
+import android.os.Bundle;
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 
 /**
  * @author yuli
@@ -22,13 +27,17 @@ public class JiBingSearch extends Activity {
 	/* (non-Javadoc)
 	 * @see android.app.Activity#onCreate(android.os.Bundle)
 	 */
+<<<<<<< HEAD
 	private TextView jibing1;
 	private TextView jibing2;
 	private TextView jibing3;
+=======
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.zicha_jibing);
 
@@ -77,6 +86,9 @@ public class JiBingSearch extends Activity {
 				startActivity(intent);
 			}
 		});
+=======
+
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 	}
 
 }

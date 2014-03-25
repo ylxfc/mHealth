@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
@@ -10,3 +11,17 @@
 	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/mHealth-master/libs/MapApi.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/home/yuli/文档/tools1/libs/Android_Map_V2.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/yuli/文档/tools1/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="/home/yuli/文档/tools1/libs/MapApi.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10

@@ -25,7 +25,11 @@
                 android:padding="12.0dip"
                 android:text="信息自查"
                 android:textColor="@android:color/white"
+<<<<<<< HEAD
                 android:textSize="18.0sp" />
+=======
+                android:textSize="20.0sp" />
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 
             <TextView
                 android:id="@+id/home_refresh"

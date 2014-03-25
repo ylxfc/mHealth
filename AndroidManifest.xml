@@ -24,6 +24,9 @@
         <activity android:name=".zicha.YaoPInSearch"/>
         <!--created by yuli at 2014-03-24 08:31:21-->
         <activity android:name=".zicha.MoreZichaMod"/>
+<<<<<<< HEAD
         <activity android:name=".zicha.XiangxiContent"/>
+=======
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
     </application>
 </manifest>

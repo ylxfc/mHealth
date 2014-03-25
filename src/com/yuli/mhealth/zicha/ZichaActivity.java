@@ -105,7 +105,11 @@ public class ZichaActivity extends Activity {
 	public void GotoYaopin() {
 		// TODO Auto-generated method stub
 		Intent intent = new Intent();
+<<<<<<< HEAD
 		intent.setClass(ZichaActivity.this, YaoPinSearch.class);
+=======
+		intent.setClass(ZichaActivity.this, YaoPInSearch.class);
+>>>>>>> 7d82a7a3d3640073cd3383592dcb11dbfc4e8a10
 		startActivity(intent);
 	}
 
